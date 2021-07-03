@@ -16,4 +16,5 @@ const Container = styled.div`
   overflow: auto;
   display: flex;
   align-items: center;
+  /* border: 1px solid aliceblue; */
 `
